@@ -3,10 +3,7 @@
   It uses a factory to create x# (balls) -> ballCap to represent a population
   and then once a virus is added to the system it slowly spreads whenever a ball
   with covid comes in contact with a ball that has covid.
-  
-  To spead to a ball said ball has to collide with another ball, after a collision a balls immunity 
-  is increased but there is also a probability they could get sick or die. Once immunity reaches a
-  threshold you can nolonger get sick but you can still spread the virus
+ 
 */
 
 // Ballpit is a const that holds the dim of the area
